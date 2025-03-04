@@ -1,5 +1,5 @@
 # winempresas
-# Reto Arquitecto de Soluciones Cloud
+# Solucion Cloud
 
 Este repositorio contiene los entregables para el reto de WinEmpresas:
 1. **Arquitectura**: Diagrama y justificación en `/architecture/`.
